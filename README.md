@@ -32,6 +32,18 @@ Sou desenvolvedor **Full Stack Web**, formado pelo curso de **Desenvolvimento We
 
 ---
 
+### 🚀 No que trabalho
+
+Construo soluções web completas, do front-end ao back-end. Entre os tipos de projeto que desenvolvo:
+
+- 🌐 **Aplicações SaaS** multi-tenant e plataformas web completas
+- 🏢 **Sistemas de gestão e ERPs** sob medida para negócios
+- 📈 **CRMs e automação de processos** (integrações e fluxos automatizados)
+- 💻 **Landing pages e sites institucionais** responsivos
+- 🤖 **Integrações com Inteligência Artificial** em aplicações reais
+
+---
+
 ### 🐍 Minhas contribuições
 
 <p align="center">
