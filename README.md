@@ -32,22 +32,6 @@ Sou desenvolvedor **Full Stack Web**, formado pelo curso de **Desenvolvimento We
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulosardinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-</p>
-
----
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paulosardinha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus do GitHub" />
-</p>
-
----
-
 ### 🐍 Minhas contribuições
 
 <p align="center">
