@@ -1,17 +1,21 @@
 <h1 align="center">👋 Olá, eu sou o Paulo Sardinha</h1>
 
-<h3 align="center">💻 Desenvolvedor Full Stack Web · São Paulo, Brasil 🇧🇷</h3>
+<h3 align="center">Líder de TI & Automação · 🤖 IA Aplicada a Processos · 💻 Desenvolvedor Full Stack</h3>
+
+<p align="center">📍 São Paulo, Brasil 🇧🇷 · 💼 +10 anos de experiência em TI · 🌎 Operações LATAM</p>
 
 ---
 
 ### 🧑‍💻 Sobre mim
 
-Sou desenvolvedor **Full Stack Web**, formado pelo curso de **Desenvolvimento Web Full Stack da Digital House**. Construo aplicações web completas — do front-end ao back-end — e estou sempre aprendendo algo novo. 🚀
+Profissional com **mais de 10 anos de experiência em TI**, com base sólida em **ITSM, Service Desk e operações LATAM**, e uma virada intencional para o universo da **Inteligência Artificial aplicada**. Comecei na base técnica e evoluí para atuação estratégica: estruturação de processos, governança de tecnologia e liderança técnica em ambientes corporativos de alta criticidade.
 
-- 🌱 Atualmente me aprofundando em **arquiteturas full-stack com TypeScript** e boas práticas de código
-- 💼 Trabalho com **React, Next.js, Node.js, Fastify, tRPC e PostgreSQL**
-- 🤝 Aberto a colaborações, projetos e novas oportunidades
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/paulosardinha03/) · **paulo.sardinha03@gmail.com**
+- 🚀 Atualmente **lidero a área de TI** de uma startup em expansão — projetos de infraestrutura, CRM, **ERP proprietário** e automações
+- 🤖 Implanto **agentes de IA** para atendimento, fluxos conversacionais, **engenharia de prompts** e integrações com **LLMs**
+- 📊 Forte experiência em **gestão de incidentes, SLAs, ativos de TI** e análise de indicadores com **Power BI**
+- 💻 Desenvolvo **soluções web full-stack** e automações orientadas por dados
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — me preparando para um **MBA em Inteligência Artificial**
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/paulosardinha03/) · **paulo.sardinha03@gmail.com**
 
 ---
 
@@ -57,27 +61,55 @@ Sou desenvolvedor **Full Stack Web**, formado pelo curso de **Desenvolvimento We
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
 </p>
 
-**Ferramentas & DevOps**
+**IA, Automação & Dados**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/Engenharia_de_Prompts-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Engenharia de Prompts" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
 </p>
 
 ---
 
-### 🚀 No que trabalho
+### 💼 Experiência
 
-Construo soluções web completas, do front-end ao back-end. Entre os tipos de projeto que desenvolvo:
+- **Analista de Sistemas e TI** — *Moreco* · `jul/2025 – atual`
+  <br/>Liderança da área de TI de uma startup: IA de atendimento (Darwin AI), automações (n8n, Make, Pluga), ERP proprietário, Google Workspace como Superadmin e suporte N1/N2.
+- **Analista de Suporte Pleno | Ponto Focal LATAM** — *Kantar IBOPE Media* · `jan/2019 – set/2024`
+  <br/>Liderança técnica N1/N2 para a América Latina; KPIs e SLAs com Power BI (redução de **25%** no tempo de atendimento); gestão de ativos de TI.
+- **Analista de Suporte Pleno | Líder de Equipe** — *MCassab* · `2018`
+- **Analista de Suporte Bilíngue | Help Desk N1/N2** — *PageGroup* · `2016 – 2018`
+- **Analista de TI | Help Desk e Qualidade** — *Hewlett Packard Enterprise / HP Brasil* · `2012 – 2016`
 
-- 🌐 **Aplicações SaaS** multi-tenant e plataformas web completas
-- 🏢 **Sistemas de gestão e ERPs** sob medida para negócios
-- 📈 **CRMs e automação de processos** (integrações e fluxos automatizados)
-- 💻 **Landing pages e sites institucionais** responsivos
-- 🤖 **Integrações com Inteligência Artificial** em aplicações reais
+---
+
+### 🎓 Formação
+
+- 📊 **Análise de Dados** — Escola DNC · `2024 – 2026`
+- 💻 **Desenvolvimento Web Full Stack** — Digital House Brasil · `2021 – 2022`
+- 🖥️ **Análise e Desenvolvimento de Sistemas** — UNINOVE · `2013 – 2015`
+
+---
+
+### 📜 Certificações
+
+- 🏅 **ITIL v3** — AXELOS
+- 🐙 **Git e GitHub** — Formação Básica
+- 🔄 **Gestão Ágil no Trabalho** — Retrospectivas Ágeis para Melhoria de Processos
+- 🎧 **Fundamentos do Atendimento ao Cliente**
+- 🖧 **Suporte em Informática**
+
+---
+
+### 🗣️ Idiomas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Português-Nativo-009C3B?style=for-the-badge" alt="Português" />
+  <img src="https://img.shields.io/badge/Espanhol-Profissional_Pleno-C60B1E?style=for-the-badge" alt="Espanhol" />
+  <img src="https://img.shields.io/badge/Inglês-Básico-012169?style=for-the-badge" alt="Inglês" />
+</p>
 
 ---
 
@@ -103,4 +135,4 @@ Construo soluções web completas, do front-end ao back-end. Entre os tipos de p
   </a>
 </p>
 
-<p align="center"><i>⭐️ Sempre construindo, sempre aprendendo.</i></p>
+<p align="center"><i>⭐️ Conectando governança, pessoas, processos e tecnologia. Sempre construindo, sempre aprendendo.</i></p>
