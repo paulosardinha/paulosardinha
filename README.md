@@ -53,6 +53,26 @@
 
 ---
 
+### 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paulosardinha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus do GitHub" />
+</p>
+
+---
+
+### 🐍 Minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulosardinha/paulosardinha/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulosardinha/paulosardinha/output/github-snake.svg" />
+    <img alt="Animação da cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/paulosardinha/paulosardinha/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### 🌐 Onde me encontrar
 
 <p align="center">
