@@ -35,8 +35,7 @@ Sou desenvolvedor **Full Stack Web**, formado pelo curso de **Desenvolvimento We
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paulosardinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosardinha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulosardinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
 </p>
 
 ---
